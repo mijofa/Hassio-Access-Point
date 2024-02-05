@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.4.9] - 2025-02-05 -- mijofa
+- Stop disabling DNS
+
 ## [Unreleased]
 
 ### Notes:
